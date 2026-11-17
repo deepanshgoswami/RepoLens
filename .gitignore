@@ -1,0 +1,10 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE & OS
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
