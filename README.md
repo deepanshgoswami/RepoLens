@@ -1,7 +1,7 @@
 
 
 ```markdown
-# RepoLens — GitHub Repository Q&A Backend
+# RepoLens — AI-Powered GitHub Repository Assistant
 
 RepoLens connects GitHub repositories to an AI-powered code Q&A workflow. Its Spring Boot backend handles GitHub authentication, repository and file selection, asynchronous code indexing, vector search, and AI chat grounded in repository content.
 
