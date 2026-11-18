@@ -132,7 +132,7 @@ The backend runs at `http://localhost:8080`.
 
 ### Run the included client (optional)
 
-The client is a demonstration interface, not a claim of frontend authorship. From the `client/` directory:
+The client is a demonstration interface. From the `client/` directory:
 
 ```bash
 npm install
